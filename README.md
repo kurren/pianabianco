@@ -21,7 +21,7 @@
   <li>leading the complete redesign of motogp.com in 6 months in 2008 (the iPhone killed Flash)</li>
   <li>defining the taxonomy and meta data for information retrieval and recommendation systems in London and in Edinburgh in 2010</li>
   <li>omnichannel design as part of the nike.com redesign in 2011</li>
-  <li>redesigning a bank from scracth in Greece (under <em>capital control</em>) in 2015</li>
+  <li>redesigning a bank from scratch in Greece (under <em>capital control</em>) in 2015</li>
   <li>leading the design of the first global ecommerce for Prada in 2018</li>
   <li>leading the product definition for Seven and the Qiddiya project in the Kingdom of Saudi Arabia in 2024</li>
 </ul>
