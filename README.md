@@ -10,10 +10,11 @@
 
 </p>
 
-<h2>professionally</h2>
+<h2>Strategic Design & Product Direction</h2>
+<p>I guide organisations through transformation, leveraging system thinking, data-driven insights, and empyrical evidence.</p>
 <p>I've been working on the digital space for over 25 years, I guess that gives me some sort of cred at least as an observer of things passing; maybe I also have something else to say. Wearing different hats at different stages of my professional life, I tried to remain coherent to myself; I changed my mind on various things, and consider change as the fundamental sign of life.</p>
 
-<h3>some things I've worked on that are worth mentioning here</h3>
+<h2>some things I've worked on that are worth mentioning here</h2>
 <ul>
   <li>designing the first website for Tissot watches in 2000</li>
   <li>designing the private area for a private bank in 2000</li>
@@ -25,7 +26,8 @@
   <li>leading the product definition for Seven and the Qiddiya project in the Kingdom of Saudi Arabia in 2024</li>
 </ul>
 
-<h4>also</h4>
+<h3>also</h3>
+<p>I find myself exploring too little music, delving into too few books (積ん読), capturing too few moments through my lens, intermittently fasting, and practicing yoga and meditation. Yet, there are those days when everything just aligns perfectly. Also, I <em>vehemently</em> believe in the Oxford comma.</p>
 <ul>
 <li>I've lived in Bondi Beach about 1993, I did catch some good waves.</li>
 <li>I've had drinks beyond the tufted leather door at the Pearl Continental in Peshawar, then we crossed the Khyber pass; it was 1996.</li>
