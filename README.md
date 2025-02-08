@@ -12,7 +12,7 @@
 
 <h2>Strategic Design & Product Direction</h2>
 <p>I guide organisations through transformation, leveraging system thinking, data-driven insights, and empyrical evidence.</p>
-<p>I've been working on the digital space for over 25 years, I guess that gives me some sort of cred at least as an observer of things passing; maybe I also have something else to say. Wearing different hats at different stages of my professional life, I tried to remain coherent to myself; I changed my mind on various things, and consider change as the fundamental sign of life.</p>
+<p>I've been working on the digital space for over 25 years, I guess that gives me some sort of cred at least as an observer of things passing; maybe I also have something else to say. Wearing different hats at different stages of my professional life, I tried to remain coherent to myself yet changing my mind on various things. I consider <strong>change as the fundamental sign of sentient life</strong> - not in biological terms, clearly.</p>
 
 <h2>some things I've worked on that are worth mentioning here</h2>
 <ul>
