@@ -25,5 +25,5 @@
 - I stared at the only existing representation of the the Pharos of Alexandria.
 - I've lived in Tarifa before it went Ibiza.
 - I've seen Sonic Youth live more than 40 times -- and a few other gigs in between (one of which on a Brighton beach).
-- I'm an Ashtanga and Bikram yoga practinioner (Barquillo Yoga in Madrid is the best).
+- I'm an Ashtanga and Bikram yoga practinioner (Barquillo Yoga in Madrid is where I started).
 - I speak a few languages, some of them fluently.
