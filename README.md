@@ -6,7 +6,7 @@
 <p align="center">
   <a href="https://pianabianco.com"><img src="https://img.shields.io/badge/pianabianco.com-black.svg" alt="email"></a>
   <a href="mailto:a@pianabianco.com"><img src="https://img.shields.io/badge/a@pianabianco.com-orange.svg" alt="email"></a>
-  <a href="https://w3w.co/describe.logged.gosh"><img src="https://img.shields.io/badge/location-%2F%2F%2Fdescribe.logged.gosh-blue?style=flat-square&link=https%3A%2F%2Fw3w.co%2Fdescribe.logged.gosh" alt="currently in: Turin"></a>
+  <a href="https://w3w.co/describe.logged.gosh"><img src="https://img.shields.io/badge/current location-%2F%2F%2Fdescribe.logged.gosh-blue?style=flat-square&link=https%3A%2F%2Fw3w.co%2Fdescribe.logged.gosh" alt="currently in: Turin"></a>
 
 </p>
 
