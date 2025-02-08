@@ -29,7 +29,7 @@
 <h3>also</h3>
 <p>I find myself exploring too little music, delving into too few books (積ん読), capturing too few moments through my lens, intermittently fasting, and practicing yoga and meditation. Yet, there are those days when everything just aligns perfectly. Also, I <em>vehemently</em> believe in the Oxford comma.</p>
 <ul>
-<li>I've lived in Bondi Beach about 1993, I did catch some good waves (but mostly I was in the washing machine).</li>
+<li>I've lived in Bondi Beach about 1993, I did catch some good waves (but mostly, I was in the washing machine).</li>
 <li>I've had drinks beyond the tufted leather door at the Pearl Continental in Peshawar, then we crossed the Khyber pass; it was 1996.</li>
 <li>I survived Liverpool.</li>
 <li>I had tea on a rooftop in Shibam, and in the outskirts of Ghadames; I had cofee in Al Makha.</li>
