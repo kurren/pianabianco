@@ -13,7 +13,7 @@
 <h2>professionally</h2>
 <p>I've been working on the digital space for over 25 years, I guess that gives me some sort of cred at least as an observer of things passing; maybe I also have something else to say. Wearing different hats at different stages of my professional life, I tried to remain coherent to myself; I changed my mind on various things, and consider change as the fundamental sign of life.</p>
 
-<h3>some things I've worked on that are worth of a press release</h3>
+<h3>some things I've worked on that are worth mentioning here</h3>
 <ul>
   <li>designing the first website for Tissot watches in 2000</li>
   <li>designing the private area for a private bank in 2000</li>
